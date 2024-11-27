@@ -1,2 +1,3 @@
 # TravelEase
-this is travelEase projecg
+this is travelEase project
+
